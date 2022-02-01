@@ -1,4 +1,4 @@
-#Yard-Sale
+# Yard-Sale
 ** Frontend of the app Yard-Sale **
 
 Technologies:
